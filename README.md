@@ -22,7 +22,7 @@ Busy, time-poor office professionals who want to maintain an active and healthy 
 ## 🧩 What's Inside
 - **👤 User Persona**
 - Alex Wisdom, a 27-year-old Project Manager, including his *🎯 Goals* and *😤 Frustrations*
-- 
+  
 - **🧠 Empathy Map — A 4-quadrant map**
 
 The empathy map explores the user’s overall experience through four key quadrants: 
